@@ -21,7 +21,7 @@ TrOCR – Getting Started with Transformer Based OCR
     pip install tensorboard==2.17.0
     pip install torchvision==0.19.0
 
-## 1. Setting up the Environment for ubuntu 
+## 2. Setting up the Environment for ubuntu 
     conda create -n tr_ocr_pip python==3.8.13
     conda activate tr_ocr_pip
     
